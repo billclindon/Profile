@@ -5,8 +5,8 @@
 </head>
 <body>
 <?php
-$name = "Bill Clindon.M"
-echo "<h1>".$name."</h1>"
+$name = "Bill Clindon.M";
+echo "<h1>".$name."</h1>";
 ?>
 <p>Studied in Jayaraj Annapackiam CSI college of Engineering</p>
 
